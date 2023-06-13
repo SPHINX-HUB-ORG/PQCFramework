@@ -1,7 +1,8 @@
-//Frameworks SPHINX 
+//Frameworks SPHINX Blockchain
 //https://twitter.com/sphinx_org
-//@authors: C. Kusuma, your name, your name, your name
-//
+//@authors: 1. C. Kusuma
+//          2. Your name
+//          3. Your name
 //
 //              +======================================================================================================================>>+
 //              ^                                                                                                         | Public key   |
