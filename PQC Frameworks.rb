@@ -1,6 +1,6 @@
 //Frameworks SPHINX 
 //https://twitter.com/sphinx_org
-//@authors: C. Kusuma
+//@authors: C. Kusuma, your name, your name, your name
 //
 //
 //              +======================================================================================================================>>+
