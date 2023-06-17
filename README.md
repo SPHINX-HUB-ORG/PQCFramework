@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo/blob/main/LICENSE)
 
-An open-source post-quantum blockchain layer 1.
+An open-source post-quantum blockchain foundation. Open to anyone who want to join, commited, and contributed.
 
 ## Table of Contents
 - [Introduction](#introduction)
