@@ -14,7 +14,6 @@ As concerned members of a community deeply invested in the rapid advancement of 
 
 This project is dedicated to the world community as an Open-source Post-quantum SPHINX blockchain, means anyone are invited to join and contribute based on his/ her passion and skills.
 
-
 ## Contributing
 We welcome contributions from the community. To contribute to this project, follow these steps:
 
@@ -24,7 +23,7 @@ We welcome contributions from the community. To contribute to this project, foll
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-By contributing to this project, you agree to abide by the [Code of Conduct](PQC%20Frameworks.rb).
+By contributing to this project, you agree to abide by the [Code of Conduct](https://github.com/SPHINX-HUB-ORG/SPHINX-V2.1).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
